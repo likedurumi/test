@@ -1,2 +1,2 @@
 # test
-group test 멋사5기 
+group test 멋사5기 친구들
